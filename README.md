@@ -42,3 +42,10 @@ The program does not save sorted results to a separate file (only displays them)
 - Scalability Testing – Add support for larger data sets (e.g., 10,000+ integers) to observe performance trends.
 - Algorithm Visualization – Implement step-by-step visualization of sorting (helpful for learning).
 - Unit Testing – Include automated tests for each sorting function to ensure correctness.
+
+---
+
+📜 License
+
+This project is for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
+You may modify and use this project for learning, but proper credit to the author is appreciated.
