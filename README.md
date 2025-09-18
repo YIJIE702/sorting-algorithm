@@ -4,6 +4,7 @@ This project demonstrates the implementation and performance comparison of **fou
 - **Quick Sort**
 - **Bubble Sort**
 - **Shell Sort**
+
 The program generates a set of unique random integers, stores them in text files, allows the user to select a sorting algorithm, and then outputs the sorted list along with the **execution time**.
 
 ---
@@ -30,6 +31,7 @@ The program generates a set of unique random integers, stores them in text files
 ---
 
 ⚠️ Limitations
+
 The program does not save sorted results to a separate file (only displays them). Execution time may vary slightly between runs due to system load and randomness.
 
 ---
