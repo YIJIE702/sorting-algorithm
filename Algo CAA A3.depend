@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612528081 source:c:\users\user\desktop\algo caa a3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+
+1612528081 source:c:\users\user\desktop\ekt 224 - algorithm and data structures\algorithm caa assignment 3\coding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+
