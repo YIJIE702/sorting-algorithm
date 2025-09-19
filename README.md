@@ -30,13 +30,13 @@ The program generates a set of unique random integers, stores them in text files
 
 ---
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 The program does not save sorted results to a separate file (only displays them). Execution time may vary slightly between runs due to system load and randomness.
 
 ---
 
-💡 Suggested Enhancements
+## 💡 Suggested Enhancements
 - Save Sorted Data – Write the sorted arrays into new text files (e.g., sorted_100data.txt).
 - Consistent Timing – Use a more precise time measurement library for reproducible timing results.
 - Scalability Testing – Add support for larger data sets (e.g., 10,000+ integers) to observe performance trends.
@@ -45,7 +45,7 @@ The program does not save sorted results to a separate file (only displays them)
 
 ---
 
-📜 License
+## 📜 License
 
 This project is for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
 You may modify and use this project for learning, but proper credit to the author is appreciated.
